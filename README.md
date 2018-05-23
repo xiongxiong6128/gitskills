@@ -2,4 +2,4 @@
 
 creating a new branch is quick.
 
-new1 and new2
+new1 merge new2
